@@ -16,6 +16,8 @@ I have created **36** End-to-End test cases. The **4** of them are on purpose **
 - form Page tests
 - stepper Page tests
 
+![Result of testing image](cypress/screenshots/interviewTests.js/result.png)
+
 #### Setup Guide
 
 Bellow instruction for installing the project locally on machine
