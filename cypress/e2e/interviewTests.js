@@ -13,7 +13,7 @@ import { onFormPage } from "../support/page_object/formPage";
 import { onStepperPage } from "../support/page_object/stepperPage";
 import { onNavigateTo } from "../support/page_object/navigateTo";
 
-describe("basic home page testing functionality", () => {
+describe("E2E tests for a webpage", () => {
   let name = "Andrew";
   let alterEgo = "Andi Bandi";
   let heroPower = "Super Flexible";
