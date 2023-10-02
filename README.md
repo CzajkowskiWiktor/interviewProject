@@ -1,5 +1,5 @@
 # Interview Project
-### Cypress Test Automation Projec
+### Cypress Test Automation Project
 ---
 
 
@@ -54,7 +54,7 @@ I created 2 scripts to launch testing
 "triggerAllTests-headless": "npx cypress run --headless",
 "triggerAllTests-chrome-headed": "npx cypress run --browser chrome --headed"
 ```
-To launch test pass to terminal:
+To run a tests, copy and paste to terminal:
 - headless mode
 ```javascript
 npm run triggerAllTests-headless
